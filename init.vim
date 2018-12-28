@@ -1,5 +1,4 @@
 set nocompatible              " be iMproved, required
-filetype off                  " required
 
 " Vim Plug
 call plug#begin('~/.local/share/nvim/plugged')
